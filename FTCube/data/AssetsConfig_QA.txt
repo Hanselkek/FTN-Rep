@@ -1,0 +1,10 @@
+QA_txtFile;
+
+1. Can I change any of the assets?
+- yes
+
+2. Is making a mod for the game allowed?
+- yes
+
+3. Is copying the game assets allowed?
+- no, don't you even dare kiddo.
